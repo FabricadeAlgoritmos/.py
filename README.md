@@ -1,1 +1,1 @@
-Executando arquivo pytho pelo cmd: py arquivo.py
+Executando arquivo *python* pelo cmd: py arquivo.py
